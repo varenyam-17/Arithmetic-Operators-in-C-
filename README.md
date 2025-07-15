@@ -73,6 +73,12 @@ int main()
         cout<<"negative"<<endl;
     }
 }
+Output:
+Enter a number
+56
+positive
+
+
 Part 2:
 #include<iostream>
 using namespace std;
@@ -113,5 +119,17 @@ int main()
         cout<<"Fail"<<endl;
     }
 }
-
+Output:
+Enter a marks of subject 1
+56
+Enter a marks of subject 2
+85
+Enter a marks of subject 3
+45
+Enter a marks of subject 4
+85
+Enter a marks of subject 5
+98
+Pecentage: 73%
+C
 
